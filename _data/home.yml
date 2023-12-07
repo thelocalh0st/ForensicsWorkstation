@@ -1,0 +1,108 @@
+navbar_entries:
+  - title: Home🏠 
+    url: https://thelocalhost.blog/ForensicsWorkstation/
+
+  - title: Build🏗️ 
+    url: build
+
+  - title: CTF⚒️ 
+    url: ctf
+
+  # - title: website
+    # url: https://thelocalhost.blog
+
+
+project_entries:
+  - title: Lab 0 
+    url: memlabs-lab0
+    desc: CTF-styled memory forensics challenge 
+
+  - title: Lab 1
+    url: memlabs-lab1
+    desc: Lab1 of memlabs series
+
+  - title: Lab 2
+    url: memlabs-lab2
+    desc: CTF-styled memory forensics challenge
+
+  - title: Lab 3
+    url: memlabs-lab3
+    desc: CTF-styled memory forensics challenge
+    highlight: WIP
+
+  - title: Lab 4
+    url: memlabs-lab4
+    desc: CTF-styled memory forensics challenge
+    highlight: WIP
+
+  - title: Lab 5
+    url: memlabs-lab5
+    desc: CTF-styled memory forensics challenge
+
+  - title: Lab 6
+    url: memlabs-lab6
+    desc: CTF-styled memory forensics challenge
+
+old_project_entries:
+  - title: Hacking Case
+    url: nist-hackingcase
+    desc: CFReDS -- Hacking Case  
+    highlight: NEW
+
+third_category:
+  - title: SIFT WorkStation
+    url: sift
+    desc: Download and setup SANS SIFT Workstation  
+    highlight: MUST
+
+  - title: SIFT Alternative
+    url: alternative
+    desc: Build Your Workstation
+
+
+footer_entries:
+  - title: thelocalh0st.blog
+    url: https://thelocalh0st.blog
+
+  - title: Linkedin
+    url: https://www.linkedin.com/in/sujay-adkesar-a90725224/
+
+  - title: github
+    url: https://github.com/sujayadkesar
+
+  - title: Instagram
+    url: https://instagram.com/sujay_adkesar
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+
