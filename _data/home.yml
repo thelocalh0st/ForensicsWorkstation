@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: Home🏠 
+  - title: Home 
     url: https://thelocalhost.blog/ForensicsWorkstation/
 
   - title: Build🏗️ 
     url: build
 
-  - title: CTF⚒️ 
+  - title: CTF
     url: ctf
 
   # - title: website
