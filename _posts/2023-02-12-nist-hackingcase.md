@@ -102,7 +102,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <script>
   function verifyAnswer2() {
     var userAnswer = document.getElementById("answer2").value;
-    var correctAnswer = "Windows XP";
+    var correctAnswer = "Microsoft Windows XP";
     var resultDisplay = document.getElementById("verificationResult2");
 
     if (userAnswer === correctAnswer) {
@@ -120,7 +120,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer3(); return false;">
   <label for="answer3">3. When was the install date?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer3" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer3" required="" placeholder="**/**/** **:**:**PM">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -164,7 +164,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer4(); return false;">
   <label for="answer4">4. What is the timezone settings?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer4" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer4" required="" placeholder="******* ******** **** (-***** ***)">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -296,7 +296,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer7(); return false;">
   <label for="answer7">7. What is the primary domain name?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer7" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer7" required="" placeholder="****">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -339,7 +339,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer8(); return false;">
   <label for="answer8">8. When was the last recorded computer shutdown date/time?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer8" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer8" required="" placeholder="**/**/** **:**:**AM">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
