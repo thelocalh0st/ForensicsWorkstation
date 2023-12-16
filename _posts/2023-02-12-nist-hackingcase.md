@@ -32,7 +32,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer(); return false;">
   <label for="answer">1. What is the image hash? Does the acquisition and verification hash match? </label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer" required="" placeholder="********************************">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -76,7 +76,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer2(); return false;">
   <label for="answer2">2. What operating system was used on the computer? </label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer2" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer2" required="" placeholder="********* ******* **">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -208,7 +208,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer5(); return false;">
   <label for="answer5">5. Who is the registered owner?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer5" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer5" required="" placeholder="**** *******">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -234,7 +234,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <script>
   function verifyAnswer5() {
     var userAnswer = document.getElementById("answer5").value;
-    var correctAnswer = "G=r=e=g S=c=h=a=r=d=t";
+    var correctAnswer = "Greg Schardt";
     var resultDisplay = document.getElementById("verificationResult5");
 
     if (userAnswer === correctAnswer) {
@@ -252,7 +252,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer6(); return false;">
   <label for="answer6">6. What is the computer account name?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer6" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer6" required="" placeholder="*-*************">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -382,7 +382,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer9(); return false;">
   <label for="answer9">9. How many accounts are recorded (total number)?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer9" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer9" required="" placeholder="*">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -426,7 +426,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer10(); return false;">
   <label for="answer10">10. What is the account name of the user who mostly uses the computer?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer10" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer10" required="" placeholder="**. ****">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -470,7 +470,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer11(); return false;">
   <label for="answer11">11. Who was the last user to logon to the computer?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer11" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer11" required="" placeholder="**. ****">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -655,7 +655,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer15(); return false;">
   <label for="answer15">15. In the above answer, the first 3 hex characters of the MAC address report the vendor of the card. Which NIC card was used during the installation and set-up for LOOK@LAN?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer15" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer15" required="" placeholder="*******">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -751,7 +751,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer17(); return false;">
   <label for="answer17">17. What is the SMTP email address for Mr. Evil?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer17" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer17" required="" placeholder="*********@*********.***">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -795,7 +795,7 @@ On `09/20/04` , a `Dell CPi notebook computer`, serial # VLQLW, was found abando
 <form onsubmit="verifyAnswer18(); return false;">
   <label for="answer18">18. What are the NNTP (news server) settings for Mr. Evil?</label>
   <label class="search-label">
-    <input name="text" class="input" id="answer18" required="" placeholder="Type here...">
+    <input name="text" class="input" id="answer18" required="" placeholder="****.******.*********.***">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <g>
@@ -1010,7 +1010,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer23(); return false;">
   <label for="answer23">23. Ethereal, a popular “sniffing” program that can be used to intercept wired and wireless internet packets was also found to be installed. When TCP packets are collected and re-assembled, the default save directory is that users \My Documents directory. What is the name of the file that contains the intercepted data?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer23" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer23" required="" placeholder="***********">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
@@ -1053,7 +1053,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer24(); return false;">
   <label for="answer24">24. Viewing the file in a text format reveals much information about who and what was intercepted. What type of wireless computer was the victim (person who had his internet surfing recorded) using?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer24" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer24" required="" placeholder="******* ** (****** **)">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
@@ -1138,7 +1138,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer26(); return false;">
   <label for="answer26">26. Search for the main user's web-based email address. What is it?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer26" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer26" required="" placeholder="***********@******.***">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
@@ -1181,7 +1181,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer27(); return false;">
   <label for="answer27">27. Yahoo Mail, a popular web-based email service, saves copies of the email under what file name?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer27" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer27" required="" placeholder="***********[*].***">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
@@ -1223,7 +1223,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer28(); return false;">
   <label for="answer28">28. How many executable files are in the recycle bin?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer28" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer28" required="" placeholder="*">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
@@ -1266,7 +1266,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer29(); return false;">
   <label for="answer29">29. Are these files really deleted?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer29" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer29" required="" placeholder="**">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
@@ -1309,7 +1309,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer30(); return false;">
   <label for="answer30">30. How many files are actually reported to be deleted by the file system?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer30" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer30" required="" placeholder="*">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
@@ -1352,7 +1352,7 @@ the user settings that was shown when the user was online and in a chat channel?
 <form onsubmit="verifyAnswer31(); return false;">
   <label for="answer31">31. Perform an Anti-Virus check. Are there any viruses on the computer?</label>
   <label class="search-label">
-    <input type="text" name="text" class="input" id="answer31" required="" placeholder="Type here...">
+    <input type="text" name="text" class="input" id="answer31" required="" placeholder="***">
     <kbd class="slash-icon">/</kbd>
     <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 512 512" xml:space="preserve">
       <!-- Search icon path -->
