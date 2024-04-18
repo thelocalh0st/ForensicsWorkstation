@@ -59,6 +59,11 @@ third_category:
     url: alternative
     desc: Build Your Workstation
 
+Pentesting_lab_setup:
+  - title: Virtual Machine 
+    url: vm
+    desc: Download the virtual machine or virtual box!!
+    highlight: 1️⃣
 
 footer_entries:
   # - title: thelocalh0st.blog
