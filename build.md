@@ -14,6 +14,13 @@ layout: default
 </header>
 
 
+{% if site.theme_config.show_malware_analysis == true %}
+  <h2>{{ site.theme_config.home.title_malware_analysis }}</h2>
+  {% include card_list.html collection=site.data.home.malware_analysis %}
+{% endif %}
+
+
+
 {% if site.theme_config.show_Pentesting_lab_setup == true %}
   <h2>{{ site.theme_config.home.title_Pentesting_lab_setup }}</h2>
   {% include card_list.html collection=site.data.home.Pentesting_lab_setup %}
