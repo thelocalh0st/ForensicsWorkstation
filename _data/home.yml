@@ -70,6 +70,12 @@ Pentesting_lab_setup:
     desc: Download your Desired linux in vm
     highlight: 2nd 
 
+malware_analysis:
+  - title: SandBox
+    url: malware
+    desc: LabSetup for malware analysis
+    
+
 footer_entries:
   # - title: thelocalh0st.blog
   #   url: https://thelocalh0st.blog
