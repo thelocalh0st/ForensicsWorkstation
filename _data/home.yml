@@ -65,6 +65,11 @@ Pentesting_lab_setup:
     desc: Download the virtual machine or virtual box!!
     highlight: 1st
 
+  - title: Kali Linux
+    url: kali
+    desc: Download your Desired linux in vm
+    highlight: 2nd 
+
 footer_entries:
   # - title: thelocalh0st.blog
   #   url: https://thelocalh0st.blog
