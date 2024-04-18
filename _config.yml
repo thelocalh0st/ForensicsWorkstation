@@ -33,6 +33,7 @@ theme_config:
   show_tags: true # show tags in a blog posts
   show_third_category: true
   show_Pentesting_lab_setup: true
+  show_malware_analysis: true
   # options for "home" page
   home:
     title_projects: Memory Forensics
