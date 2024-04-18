@@ -7,7 +7,7 @@ layout: default
   {% include horizontal_list.html collection=site.data.home.navbar_entries %}
 {% endif %}
 
-  <h1>Build Your Forensics Workstation 🔬⚒️</h1>
+  <h1>Build Your Workstation 🔬⚒️</h1>
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}

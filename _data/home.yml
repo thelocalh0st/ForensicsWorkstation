@@ -2,7 +2,7 @@ navbar_entries:
   - title: Home 
     url: https://thelocalhost.blog/ForensicsWorkstation/
 
-  - title: Build🏗️ 
+  - title: Lab-Setup
     url: build
 
   - title: CTF
@@ -61,17 +61,17 @@ third_category:
 
 
 footer_entries:
-  - title: thelocalh0st.blog
-    url: https://thelocalh0st.blog
+  # - title: thelocalh0st.blog
+  #   url: https://thelocalh0st.blog
 
-  - title: Linkedin
-    url: https://www.linkedin.com/in/sujay-adkesar-a90725224/
+  # - title: Linkedin
+  #   url: https://www.linkedin.com/in/sujay-adkesar-a90725224/
 
-  - title: github
-    url: https://github.com/sujayadkesar
+  # - title: github
+  #   url: https://github.com/sujayadkesar
 
-  - title: Instagram
-    url: https://instagram.com/sujay_adkesar
+  # - title: Instagram
+  #   url: https://instagram.com/sujay_adkesar
 
 misc_entries:
   - title: this is an example vertical list
