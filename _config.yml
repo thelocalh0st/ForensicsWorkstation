@@ -40,7 +40,7 @@ theme_config:
     title_blog: Blog
     title_old_projects: Computer Forensics Reference DataSet
     title_third_category: Forensics Lab Setup
-    title_Pentesting_lab_setup: Cybersecurity Lab Setup -- 🔴
+    title_Pentesting_lab_setup: Pentesting Lab Setup 
 
 soopr:
   publish_token: "pt_97a6aef6f204c5540bdd84a043d3229f" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
