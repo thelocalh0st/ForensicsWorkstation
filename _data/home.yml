@@ -61,9 +61,9 @@ third_category:
 
 Pentesting_lab_setup:
   - title: Virtual Machine 
-    url: vm
+    url: virtual-machine
     desc: Download the virtual machine or virtual box!!
-    highlight: 1️⃣
+    highlight: 1st
 
 footer_entries:
   # - title: thelocalh0st.blog
