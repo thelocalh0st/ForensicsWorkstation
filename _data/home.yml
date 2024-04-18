@@ -42,12 +42,16 @@ project_entries:
   - title: Lab 6
     url: memlabs-lab6
     desc: CTF-styled memory forensics challenge
-
-old_project_entries:
+  
   - title: Hacking Case
     url: nist-hackingcase
     desc: CFReDS -- Hacking Case  
     highlight: NEW
+
+old_project_entries:
+  - title: Phishing
+    url: phish1
+    desc: lets learn phishing
 
 third_category:
   - title: SIFT WorkStation
@@ -74,7 +78,7 @@ malware_analysis:
   - title: SandBox
     url: malware
     desc: LabSetup for malware analysis
-    
+
 
 footer_entries:
   # - title: thelocalh0st.blog
